@@ -1,2 +1,2 @@
 name="Ramu_kaka"
-print(name)
+age=20
